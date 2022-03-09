@@ -14,3 +14,5 @@ Daftar Isi Materi Komputasi Cerdas Berbasis Visi:
 8. Teknik Klasifikasi Non Linier
 9. Evaluasi Sistem 
 
+Lisensi
+Dokumen pada repository ini memiliki Lisensi MIT
