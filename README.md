@@ -4,12 +4,9 @@ Repository ini berisi beberapa file tutorial terkait penggunaan Google Colab unt
 
 Daftar Isi Materi Komputasi Cerdas Berbasis Visi:
 
-1. Pendahuluan KCBV  
-   *https://github.com/fridymandita/KCBV/blob/main/Panduan_Google_Colab_untuk_KCBV.ipynb
-2. Pengenalan Pengolahan Citra Digital 
-   *https://github.com/fridymandita/KCBV/blob/main/Pengenalan_Pengolahan_Citra_Digital.ipynb
-3. Pembentukan Citra dan Pengolahan Citra Digital 
-   *https://github.com/fridymandita/KCBV/blob/main/Dasar_Pengolahan_Citra_Dengan_OpenCV.ipynb
+1. Pendahuluan KCBV -> https://github.com/fridymandita/KCBV/blob/main/Panduan_Google_Colab_untuk_KCBV.ipynb
+2. Pengenalan Pengolahan Citra Digital -> https://github.com/fridymandita/KCBV/blob/main/Pengenalan_Pengolahan_Citra_Digital.ipynb
+3. Pembentukan Citra dan Pengolahan Citra Digital -> https://github.com/fridymandita/KCBV/blob/main/Dasar_Pengolahan_Citra_Dengan_OpenCV.ipynb
 4. Deteksi dan Pencocokan Fitur
 5. Segmentasi Citra
 6. Teknik Klasifikasi Linier
